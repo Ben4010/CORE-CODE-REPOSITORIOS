@@ -1,0 +1,23 @@
+Diseña un algoritmo para calcular el volumen de una pirámide, un cubo y una esfera.
+1.inicio
+Calcular el volumen una pirámide con  un Ab de 30*30cm y h de 65cm, cubo de 35*35*35cm o esfera 
+Preguntar a cuál figura calcular volumen
+. si es pirámide con un área de 30*30cm y una altura de 65cm
+. Solicitar formula de volumen Ab*h/3
+. reemplazar valores asignados en formula 30*30*65/3
+. realizar multiplicación de 30*30*65
+. Dividir dentro de 3 el resultado obtenido de la multiplicación anterior
+. guardar resultado de volumen obtenido 
+Si es un cubo de 35*35*35cm
+Solicitar formula de volumen (a*a*a)
+Reemplazar datos de cubo en formula V=35*35*35
+Realizar multiplicación 
+Guardar resultados obtenidos 
+Si es una esfera con un radio de 10cm
+Solicitar formula de volumen de esfera V = 4/3 π*r3
+Reemplazar datos de esfera en formula V=4/3* 3.1416 (10)
+Elevar el radio de la esfera al cubo (3)
+El resultado obtenido multiplicarlo por 3.1416
+Multiplicar resultado por 4 y dividirlo entre 3
+Guardar resultados obtenidos 
+Fin
