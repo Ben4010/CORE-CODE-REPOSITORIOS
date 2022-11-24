@@ -1,18 +1,16 @@
 1.inicio 
-2.pedir temperaturas a convertir y asignar nombre A
+2. convertir 30º
 3. preguntar si la temperatura es Celsius o Fahrenheit
 4.si la temperatura esta en grados Celsius 
-1.	Solicitar formula de conversión a grados Fahrenheit(A × 9/5) + 32
-2.	Realizar conversión paso a paso 
-3.	Reemplazar en formula grados ºC asignados 
-4.	Multiplicar por 9/5
-5.	Sumar 32 a resultado de multiplicación 
-6.	Guardar grados Celsius obtenidos
+1.	Solicitar formula de conversión a grados Fahrenheit(ºF × 9/5) + 32
+2.	Reemplazar en formula grados 30ºC asignados 
+3.	Multiplicar por 9/5
+4.	Sumar 32 a resultado de multiplicación 
+5.	Guardar grados Celsius obtenidos
 5. Si la temperatura son grados Fahrenheit 
-1.	Solicitar formula de conversión a grados Celsius (A − 32) × 5/9
-2.	Realizar conversión paso a paso 
-3.	Reemplazar en formula grados ºF asignados 
-4.	Restar 32 a grados asignados 
-5.	Multiplicar 5/9 a resultado de resta 
-6.	Guardar resultados obtenidos 
+1.	Solicitar formula de conversión a grados Celsius (ºC − 32) × 5/9 
+2.	Reemplazar en formula grados 30ºF asignados 
+3.	Restar 32 a grados asignados 
+4.	Multiplicar 5/9 a resultado de resta 
+5.	Guardar resultados obtenidos 
 6.Fin 
