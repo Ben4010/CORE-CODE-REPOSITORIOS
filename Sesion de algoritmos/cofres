@@ -1,0 +1,16 @@
+Cofres 
+Estamos en una habitación con tres cofres. Sabemos que al menos uno tiene un tesoro en él. Cada cofre tiene un mensaje, pero todos los mensajes están relacionados.
+
+Cofre izquierdo: El cofre del medio tiene un tesoro.
+Cofre medio: Todos estos cofres tienen tesoros en ellos
+Cofre derecho: Solo uno de estos cofres tiene tesoros.
+
+Solución 1 
+Cofre izquierdo dice que no tiene el tesoro, pero a la vez miente diciendo que el cofre dek medio tiene un tesoro ya que el cofre del medio dice que todos los cofres tienen un tesoro y el cofre derecho dice la verdad diciendo que solo un cofre contiene un tesoro
+Existe una contradicción 
+Solución 2 
+Si tomamos el cofre del medio nos miente diciendo que todos los cofres tienen un tesoro pero el izquierdo dice que el de en medio lo tiene y el no, asi mismo el derecho dice que solo uno de los 3 cofres puede contener un tesoro no podiendo ser el izquierdo ya que afirma que el del medio lo tiene 
+Existe contradicción entre el cofre izquierdo y el cofre del medio 
+Solucion 3 
+El cofre derecho afirma que solo uno de los 3 cofres puede tener un tesoro ya que el del medio dice que los 3 contienen uno esta mintiendo asi mismo el izquierdo miente diciendo que el del medio lo tiene 
+El cofre derecho tiene el tesoro
