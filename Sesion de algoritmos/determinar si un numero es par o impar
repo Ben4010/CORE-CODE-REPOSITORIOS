@@ -1,11 +1,11 @@
  Comienzo 
-Pedir el numero 
+Solicitar número guardarlo con el nombre número 
 si el numero es par verificar dividendo dentro de 2 
 -realizar división de numero dentro de 2
--si el numero da un resultado de división exacto se determina como par
+-si el numero da un resultado de división da un resultado entre 0 y 1 se denomina como par
 -guardar resultados
 Si el numero es impar verificar dividiendo dentro de 2 
 -realizar división de numero dentro de 2
--si el numero da un resultado de división con decimales se determina como impar 
+-si el numero da un resultado de división con decimales o no da un resultado igual a 0 se determina como impar 
 -guardar resultados 
 fin
