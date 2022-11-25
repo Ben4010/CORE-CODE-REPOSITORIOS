@@ -1,0 +1,8 @@
+Inicio 
+Solicitar el año de nacimiento y llamarlo fecha de nacimiento 
+Calcular en que año y en que fecha estamos actualmente (2022)
+El año actual es mas grande que la fecha de nacimiento asignada por lo tanto se deberá restar la fecha de nacimiento al año actual para obtener la edad
+rstar año y fecha actual a fecha de nacimiento 
+calcular = año y fecha actual - fecha de nacimiento 
+Guardar resultados de edad
+fin
