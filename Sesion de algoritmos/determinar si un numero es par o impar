@@ -1,0 +1,11 @@
+ Comienzo 
+Pedir el numero 
+si el numero es par verificar dividendo dentro de 2 
+-realizar división de numero dentro de 2
+-si el numero da un resultado de división exacto se determina como par
+-guardar resultados
+Si el numero es impar verificar dividiendo dentro de 2 
+-realizar división de numero dentro de 2
+-si el numero da un resultado de división con decimales se determina como impar 
+-guardar resultados 
+fin
