@@ -5,7 +5,7 @@ Algoritmo DistanciaCero
 		Imprimir "Escriba un numero" 
 		Leer a 
 		Si abs(a) > abs(x) Entonces
-			a = x
+			x = a
 		FinSi
 	FinPara
 	Imprimir trunc(x)
