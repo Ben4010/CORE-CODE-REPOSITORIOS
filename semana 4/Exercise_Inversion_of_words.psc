@@ -14,5 +14,6 @@ Funcion Contrary <- Inversion_of_words( words )
 Fin Funcion
 
 Algoritmo Exercise_Inversion_of_words
-	Escribir Inversion_of_words("HoLa")
+     leer nombre
+	Escribir Inversion_of_words(nombre)
 FinAlgoritmo
