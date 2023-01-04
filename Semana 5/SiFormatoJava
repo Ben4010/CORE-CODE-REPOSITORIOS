@@ -1,0 +1,5 @@
+if (number < 100 )  {
+greeting "Numero Menor"
+}else{
+greeting "Numero Mayor"
+}
