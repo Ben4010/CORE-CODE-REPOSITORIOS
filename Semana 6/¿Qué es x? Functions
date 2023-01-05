@@ -1,0 +1,9 @@
+function reply(phrase) {
+  return phrase;
+}
+
+let x = reply('How do you do?');
+
+console.log (function);
+
+//esta funcion da como resultado  "How do you do?"
