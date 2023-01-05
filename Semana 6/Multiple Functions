@@ -1,0 +1,9 @@
+function a() {
+ return "Hello a!";
+}
+function b() {
+ return "Hello b!";
+}
+
+//la funcion a retorna "Hello a!"
+//La funcion b retorna "Hello b!"
