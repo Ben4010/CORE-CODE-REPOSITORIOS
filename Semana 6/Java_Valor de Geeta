@@ -1,0 +1,3 @@
+let x = "Geeta"
+console.log (x)
+//el valor de x es  "Geeta"
