@@ -1,10 +1,10 @@
-function shorcut (s1, s2){
+function shortcut (s1, s2){
     return s1.charAt(0) + "" + s2.charAt(0);
 
 }
 
 let s1 = "Bob";
 let s2 = "Travis"
-console.log(shorcut(s1, s2))
+console.log(shortcut(s1, s2))
 
 //funcion shortcut (s1, s2) da  como resultado "BT"
