@@ -4,7 +4,7 @@ function shortcut (s1, s2){
 }
 
 let s1 = "Bob";
-let s2 = "Travis"
-console.log(shortcut(s1, s2))
+let s2 = "Travis";
+console.log(shortcut(s1, s2));
 
 //funcion shortcut (s1, s2) da  como resultado "BT"
