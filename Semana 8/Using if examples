@@ -1,0 +1,18 @@
+
+cantidad de perritos calientes	precio por unidad (centavos)
+n < 5	100
+n >= 5 y n < 10	95
+n >= 10	90
+
+
+//solucion
+function saleHotdogs(n){
+  if (n < 5){
+    return n * 100
+  }else if (n < 10 ){
+    return n * 95
+  }else if (n >=10){
+    return n * 90
+  }else 
+  return n
+}
