@@ -1,0 +1,13 @@
+decodeMorse = function(morseCode){
+  let code = [];
+  let word = morseCode.trim().split("  ");
+  let mors = [];
+  for (let i = 0; i < word.length; i++){
+    mors = word[i].split(" ");
+   for (let j = 0; j < mors.length; j++){
+    mors[j] = MORSE_CODE[mors[j]];
+   }
+    code.push(mors.join(""));
+  }
+  return code.join(" ").trim()
+};
