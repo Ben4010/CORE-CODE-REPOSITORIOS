@@ -1,6 +1,6 @@
 function processArray(arr, callback) {
-  let arr
-  for (let i; i < arr.length; i++){
-    arr[i] = callback(arr[i]);
+  let newarr
+  for (let i = 0; i < arr.length; i++){
+    newarr[i] = callback(arr[i]);
   }
 }
