@@ -1,3 +1,13 @@
 # CORE-CODE-REPOSITORIOS
 Week 1
-
+Weel 2
+Week 3
+Week 4
+Weel 5
+Week 6
+Week 7
+Weel 8
+Week 9
+Week 10
+Weel 11
+Week 12
