@@ -1,13 +1,13 @@
 # CORE-CODE-REPOSITORIOS
-<title>Week 1</title>
-Weel 2
-Week 3
-Week 4
-Weel 5
-Week 6
-Week 7
-Weel 8
-Week 9
-Week 10
-Weel 11
-Week 12
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+</head>
+<body>
+    <h1 id="title">Week 1</h1>
+</body>
+</html>
