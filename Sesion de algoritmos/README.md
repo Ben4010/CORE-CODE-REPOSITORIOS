@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
-<body>
-    <h1 id="title">Week 1</h1>
-    <p>Links de ejercicios</p>
-    <a href="https://github.com/Ben4010/CORE-CODE-REPOSITORIOS/tree/main/Sesion%20de%20algoritmos" target="_blank">Exercise 1</a>
-</body>
-</html>
+# Week 1
+## Link Ejercicio 1
+1. [Ejercicio de Pizza](https://github.com/corecodeio/devguide-fundamentals-2022-04/tree/main/src/technologies/2022/week01/challenges/e01/desc#readme)
+2. [Solución de Pizza](https://github.com/Ben4010/CORE-CODE-REPOSITORIOS/blob/main/Sesion%20de%20algoritmos/Pizza.txt)
