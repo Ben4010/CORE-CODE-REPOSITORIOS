@@ -9,6 +9,6 @@
 <body>
     <h1 id="title">Week 1</h1>
     <h2>Semana 1 Practicando Pseoudocódigo</h2>
-    <a href="https://github.com/Ben4010/CORE-CODE-REPOSITORIOS/tree/main/Sesion%20de%20algoritmos" target="_blank">Week 1</a>
+    <a href="https://bit.ly/3S65CZe="_blank">Week 1</a>
 </body>
 </html>
