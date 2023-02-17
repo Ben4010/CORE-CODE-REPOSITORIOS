@@ -7,8 +7,11 @@
    
 </head>
 <body>
-    <h1 id="title">Week 1</h1>
-    <h2>Semana 1 Practicando Pseoudocódigo</h2>
-    <a href="https://bit.ly/3S65CZe="_blank">Week 1</a>
+     <h2 id="title">Week 1</h2>
+    <li>Semana 1 practicando Pseoudocódigo</li>
+    <a href="https://bit.ly/3S65CZe" target="_blank">Week 1</a>
+    <h2 id="title">Week 2</h2>
+    <li>Semana 2 practicando Pseoudocódigo</li>
+    <a href="https://bit.ly/3I7guRZ" target="_blank">Week 2</a>
 </body>
 </html>
