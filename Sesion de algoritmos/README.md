@@ -1,5 +1,5 @@
 # Week 1 
-## Wednesday 
+## _Wednesday_ 
 **_Exercises done on Monday._** 
 ### Links Exercise 1
 + Here you will find the assigned exercise and the solution of the exercise.
@@ -16,7 +16,7 @@
 1. [Geometry](https://github.com/corecodeio/devguide-fundamentals-2022-04/tree/main/src/technologies/2022/week01/challenges/e03/desc) 
 2. [Solution Geometry](https://github.com/Ben4010/CORE-CODE-REPOSITORIOS/blob/main/Sesion%20de%20algoritmos/Geometry) 
 
-## Thursday
+## _Thursday_
 ### Links Exercise 1
 + Here you will find the assigned exercise and the solution of the exercise.
 1. [Numbers](https://bit.ly/3YJwEs4)
