@@ -1,17 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
-</head>
-<body>
-     <h2 id="title">Week 1</h2>
-    <li>Semana 1 practicando Pseoudocódigo</li>
-    <a href="https://bit.ly/3S65CZe" target="_blank">Week 1</a>
-    <h2 id="title">Week 2</h2>
-    <li>Semana 2 practicando Pseoudocódigo</li>
-    <a href="https://bit.ly/3I7guRZ" target="_blank">Week 2</a>
-</body>
-</html>
+# Week 1 🥷 
+Week 1 practicing Pseudocode
++ [Week 1](https://github.com/Ben4010/CORE-CODE-REPOSITORIOS/tree/main/Sesion%20de%20algoritmos)
+# Week 2 🕵️ 
+Week 2 practicing Pseudocode
++ [Week 2](https://github.com/Ben4010/CORE-CODE-REPOSITORIOS/tree/main/semana%202%20pseudoc%C3%B3digo)
+# Week 3 💫 
+Week 3 practicing Pseudocode and improving programming logic
++ [Week 3](https://github.com/Ben4010/CORE-CODE-REPOSITORIOS/tree/main/semana%202%20pseudoc%C3%B3digo)
