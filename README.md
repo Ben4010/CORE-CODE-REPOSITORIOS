@@ -22,5 +22,6 @@
 1. **Week 6 we start with the JavaScript programming language**
    - In this week we will learn about the JS data types, about how to use logical operators and fundamentals of the objects of this language.
      - **we will delve into this language in the coming weeks**
++ [Week 6](https://bit.ly/41HQaac)
 
 
