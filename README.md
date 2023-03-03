@@ -15,4 +15,7 @@
    - In this week we will be using a program called PSeInt
 + [Week 4](https://github.com/Ben4010/CORE-CODE-REPOSITORIOS/tree/main/semana%204)
 ## _Week 5_ 💡 
- 
+1. **Week 5 practicing Pseudocode and JavaScript**
+   - In this week we will using a program called PSeInt and we will have an introduction to the programming language called JavaScript
++ [Week 5](https://github.com/Ben4010/CORE-CODE-REPOSITORIOS/tree/main/Semana%205)
+
