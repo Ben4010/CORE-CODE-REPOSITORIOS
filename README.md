@@ -23,5 +23,17 @@
    - In this week we will learn about the JS data types, about how to use logical operators and fundamentals of the objects of this language.
      - **we will delve into this language in the coming weeks**
 + [Week 6](https://bit.ly/41HQaac)
+## Week 7 ☄️ 
++ **In this week we will learn about objects, object prototypes and arrays**
+  - We will continue with the programming language Js
++ [Week 7](https://bit.ly/3EXZP2u)
+## Week 8
+
+## Week 9
+## Week 10
+## Week 11
+## Week 12
+## Week 13
+## Week 14
 
 
