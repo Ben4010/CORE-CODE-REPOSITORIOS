@@ -27,8 +27,10 @@
 + **In this week we will learn about objects, object prototypes and arrays**
   - We will continue with the programming language Js
 + [Week 7](https://bit.ly/3EXZP2u)
-## Week 8
-
+## Week 8  💻 
++ In this week we will continue practicing with the JavaScript language learning about conditionals and other operators
+  - Prepare for the exercises ⌚️ 
++ [Week 8](https://github.com/Ben4010/CORE-CODE-REPOSITORIOS/tree/main/Semana%208)
 ## Week 9
 ## Week 10
 ## Week 11
