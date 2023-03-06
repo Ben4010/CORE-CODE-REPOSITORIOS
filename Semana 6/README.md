@@ -61,18 +61,18 @@ We start small [HTML](https://edpuzzle.com/join/vawasaj) course
 ### Links exercise 3
 1. [What is x?](https://bit.ly/3KZQg7c)
 2. [My solution in Hero](https://www.jshero.net/en/koans/jsx01.html)
-3. [Save](https://bit.ly/3YmzQZw)
+3. [Saved](https://bit.ly/3YmzQZw)
 ### Links exercise 4
 1. [Several Variables](https://bit.ly/3EZXwMB)
 2. [My solution in Hero](https://www.jshero.net/en/koans/var2.html)
-3. [Save](https://bit.ly/3ycbAPh)
+3. [Saved](https://bit.ly/3ycbAPh)
 ### Links exercise 5
 1. [Reassignment](https://bit.ly/3kM4EVK)
 2. [My solution in Hero](https://www.jshero.net/en/koans/jsx02.html)
 ### Links exercise 6 
 1. [Assing Variables](https://bit.ly/3ZJSCv8)
 2. [My solution in Hero](https://www.jshero.net/en/koans/jsx03.html)
-3. [Save](https://bit.ly/41LunOQ)
+3. [Saved](https://bit.ly/41LunOQ)
 ## _Wednesday_
 + Here you will find the assigned exercise and the solution of the exercises.
 ### Links exercise 1
@@ -80,45 +80,45 @@ We start small [HTML](https://edpuzzle.com/join/vawasaj) course
 ### Links exercise 2
 1. [Functions](https://bit.ly/3ZJq0lq)
 2. [My solution in Hero](https://www.jshero.net/en/koans/function.html)
-3. [Save](https://bit.ly/3F0M4QF)
+3. [Saved](https://bit.ly/3F0M4QF)
 ### Links exercise 3
 1. [Multiple Functions](https://bit.ly/3Zp36Qz)
 2. [My solution in Hero](https://www.jshero.net/en/koans/function2.html)
-3. [Save](https://bit.ly/3SUyG6j)
+3. [Saved](https://bit.ly/3SUyG6j)
 ### Links exercise 4
 1. [Function calls](https://bit.ly/3JdmASK)
 2. [My solution in Hero](https://www.jshero.net/en/koans/functioncall.html)
-3. [Save](https://bit.ly/3yfwX22)
+3. [Saved](https://bit.ly/3yfwX22)
 ### Links exercise 5
 1. [What is x? (Function)](https://bit.ly/3SNLcVi)
 2. [My solution in Hero](https://www.jshero.net/en/koans/jsx05.html)
-3. [Save](https://bit.ly/3ZFAYIP)
+3. [Saved](https://bit.ly/3ZFAYIP)
 ### Links exercise 6
 1. [Parameters](https://bit.ly/3yezcCE)
 2. [My solution in Hero](https://www.jshero.net/en/koans/parameter.html)
-3. [Save](https://bit.ly/3ydUEHX)
+3. [Saved](https://bit.ly/3ydUEHX)
 ## _Thuesday_
 + Here you will find the assigned exercise and the solution of the exercises.
 ### Links exercise 1
 1. [Strings](https://bit.ly/3yamGnT)
 2. [My solution in Hero](https://www.jshero.net/en/koans/string.html)
-3. [Save](https://bit.ly/3IRvZhl)
+3. [Saved](https://bit.ly/3IRvZhl)
 ### Links exercise 2
 1. [Strings.length](https://bit.ly/3JhicSP)
 2. [My solution in Hero](https://www.jshero.net/en/koans/stringlength.html)
-3. [Save](https://bit.ly/3mwv7qL)
+3. [Saved](https://bit.ly/3mwv7qL)
 ### Links exercise 3
 1. [String: toUpperCase()](https://bit.ly/3IVRjSO)
 2. [My solution in Hero](https://www.jshero.net/en/koans/stringupper.html)
-3. [Save](https://bit.ly/3ZJvywe)
+3. [Saved](https://bit.ly/3ZJvywe)
 ### Links exercise 4
 1. [String: charAt()](https://bit.ly/3SOAD4m)
 2. [My solution in Hero](https://www.jshero.net/en/koans/stringcharat.html)
-3. [Save](https://bit.ly/3YomE6t)
+3. [Saved](https://bit.ly/3YomE6t)
 ### Links exercise 5
 1. [String: indexOf()](https://bit.ly/3EYH1jJ)
 2. [My solution in Hero](https://www.jshero.net/en/koans/stringindexof.html)
-3. [Save](https://bit.ly/3Jfr1w5)
+3. [Saved](https://bit.ly/3Jfr1w5)
 + **Here ends the exercises of the week**
 ## MDN Documentation
 Help Documentation
