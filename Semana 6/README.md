@@ -97,7 +97,7 @@ We start small [HTML](https://edpuzzle.com/join/vawasaj) course
 1. [Parameters](https://bit.ly/3yezcCE)
 2. [My solution in Hero](https://www.jshero.net/en/koans/parameter.html)
 3. [Saved](https://bit.ly/3ydUEHX)
-## _Thuesday_
+## _Thursday_
 + Here you will find the assigned exercise and the solution of the exercises.
 ### Links exercise 1
 1. [Strings](https://bit.ly/3yamGnT)
