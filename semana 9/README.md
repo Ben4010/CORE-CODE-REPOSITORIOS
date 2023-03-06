@@ -1,18 +1,25 @@
 # Week 9 - JavaScript
 ## Subtems
-literales de cadena
-operador de descanso/extensión
-asignación de desestructuración
-evaluación de cortocircuito
-este
-en un metodo
-en una funcion
-Manejo de excepciones
-lanzar declaración
-intentar / atrapar / finalmente
-Establecer tiempo de espera
-devoluciones de llamada
-Infierno de devolución de llamada
-promesas
-entonces/atrapar
-Asíncrono / Espera
++ string literals
++ rest/spread operator
++ destructuring assignment
++ short circuit evaluation
++ this
+  - In a method
+  - In a function
++ Exception Handling
+  - throw statement
+  - try / catch / finally
++ SetTimeout
++ CallBacks
+  - Callback hell
++ Promises
+  - then/catch
+  - Async / Await
+### Exercises of the wekk
+## _Monday_
++ Here you will find the assigned exercise and the solution of the exercises.
+### Links exercise 1
+1. []()
+2. []()
+3. []()
