@@ -41,7 +41,7 @@ In week  we will carry out a small project on a calculator and likewise we will 
 ## Week 11  💻 
 #### React
 + for this week we will continue with our little course on React
-+ [Week 11]()
++ [Week 11](https://bit.ly/3FgteFd)
 ## Week 12
 + [Random](https://bitly.com/)
 ## Week 13
