@@ -35,8 +35,12 @@
 + **This week we will continue with the JavaScript programming language practicing doing exercises on the Codewars platform**
 + Prepare for the exercises  💡 
 + [Week 9](https://github.com/Ben4010/CORE-CODE-REPOSITORIOS/blob/main/semana%209/README.md)
-## Week 10
-## Week 11
+## Week 10  💻 
+In week  we will carry out a small project on a calculator and likewise we will be following a small React course
++ [Week 10](https://github.com/Ben4010/CORE-CODE-REPOSITORIOS/tree/main/semana%2010)
+## Week 11  💻 
+#### React
++ for this week we will continue with our little course on React
 ## Week 12
 ## Week 13
 ## Week 14
