@@ -34,7 +34,7 @@
 ## Week 9
 + **This week we will continue with the JavaScript programming language practicing doing exercises on the Codewars platform**
 + Prepare for the exercises  💡 
-[Week 9](https://github.com/Ben4010/CORE-CODE-REPOSITORIOS/blob/main/semana%209/README.md)
++ [Week 9](https://github.com/Ben4010/CORE-CODE-REPOSITORIOS/blob/main/semana%209/README.md)
 ## Week 10
 ## Week 11
 ## Week 12
